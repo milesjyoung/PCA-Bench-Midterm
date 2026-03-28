@@ -1,0 +1,365 @@
+[
+  {
+    "persona_id": "e7c0574639a244c8972c92aab9501035",
+    "demographics": {
+      "name": "Mary Alberti",
+      "age": 28,
+      "gender": "Female",
+      "education": "High school",
+      "occupation": "Fast food or counter worker",
+      "income_bracket": "Under $35k",
+      "location": "Madison, WI 53717, USA",
+      "marital_status": "Never married"
+    },
+    "psych_traits": {
+      "openness": 0.61,
+      "conscientiousness": 0.9,
+      "extraversion": 0.56,
+      "agreeableness": 0.74,
+      "neuroticism": 0.42
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Mary considers her health generally good and focuses on consistency rather than extremes. She runs a few times a week, often around Lake Mendota, and uses exercise as both fitness and stress relief. She values sleep, meal prep, stretching, decent shoes, and routines to manage fatigue, headaches, foot soreness, and lower back strain from long shifts. She is mentally steadier when life feels organized, and she uses budgeting, journaling, and weekly planning as part of her wellness routine.",
+      "food": "She works in fast food but tries to be intentional about what she eats so convenience does not take over. She prefers balanced home-cooked meals, decent produce, reasonable portions, and practical grocery shopping. She enjoys local Wisconsin staples in moderation, such as beer and cheese curds, and likes using tomatoes and herbs from her garden when they are in season.",
+      "travel": "Travel is modest, budget-conscious, and occasional. She is not planning major trips but likes the idea of affordable weekend getaways, especially to places like Door County, as a treat when savings allow. She values simple trips that feel restorative rather than flashy vacations.",
+      "home_and_lifestyle": "Mary lives with one roommate to keep costs manageable and prefers a stable, organized, low-drama home life. She likes predictable routines, shared responsibility for household bills, and practical budgeting. Her ideal lifestyle is grounded and disciplined, with enough flexibility for small pleasures while maintaining an emergency cushion and future savings goals.",
+      "entertainment": "She enjoys low-to-mid-cost local entertainment such as Brewers games, local art walks, farmers markets, neighborhood events, casual dinners, and craft-brew outings with friends. She prefers entertainment that feels social, relaxed, and worth the money rather than impulsive spending.",
+      "hobbies": "Her hobbies include running, light gardening, journaling, budgeting/planning, attending local events, and spending time with friends over simple outings. She also enjoys following sports and maintaining routines that make her feel productive and centered.",
+      "work_and_career": "Work is central to her identity and future planning. She takes pride in being dependable, calm under pressure, organized, and good at customer-facing operations. She is interested in moving into shift supervision or management and hopes to take hospitality classes or earn a manager certification. She pays close attention to labor flow, inventory, training, and operational efficiency.",
+      "arts_and_culture": "She appreciates accessible local culture more than elite or formal scenes. She enjoys occasional art walks and community events in Madison and likes cultural activities that feel grounded, local, and affordable.",
+      "sports": "She is physically active through recreational running and also enjoys attending Brewers games. Sports for her are both participatory and social, with more interest in fitness, stamina, and shared fan experiences than in intense competition.",
+      "nature_and_outdoors": "Access to lakes, parks, and running routes is one of the things she values most about Madison. She enjoys running outdoors, spending time around Lake Mendota, visiting farmers markets, and doing a bit of gardening. Outdoor time helps her feel grounded and balanced.",
+      "technology": "She likely uses technology in practical, everyday ways: tracking her budget, managing schedules, staying in touch with friends, and handling routine household and work-related organization. Her orientation toward technology is utilitarian rather than enthusiast-driven.",
+      "music": "Music is not a major defining interest in the interview, but it likely plays a background role in her routines, commutes, and social outings. Her broader style suggests she would favor familiar, mood-based listening over identity-driven fandom.",
+      "fashion": "Her approach to fashion is practical and functional. She is more concerned with comfort, durability, work-appropriate clothing, and good shoes than with trends. Spending on apparel tends to be needs-based, such as replacing boots or shoes when necessary."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Closest family and best-friend circle, centered on family traditions and a few trusted confidants.",
+        "base_layer": 5,
+        "scaled_size": 5
+      },
+      "close_friends": {
+        "description": "High-trust friends she sees regularly for runs, dinner gatherings, and occasional craft-brew outings.",
+        "base_layer": 15,
+        "scaled_size": 12
+      },
+      "social_network": {
+        "description": "Casual acquaintances including coworkers, local runners, neighbors, and community contacts.",
+        "base_layer": 50,
+        "scaled_size": 38
+      },
+      "active_network": {
+        "description": "Broader network of recurring but lower-frequency contacts through work, sports fandom, gardening, and local events.",
+        "base_layer": 150,
+        "scaled_size": 110
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.74) adjusted upward for strong family orientation in the intimate circle"
+    },
+    "close_social_personas": null
+  },
+  {
+    "persona_id": "close_1_roommate_sara",
+    "demographics": {
+      "name": "Sara Jensen",
+      "age": 27,
+      "gender": "Female",
+      "education": "Some college",
+      "occupation": "Medical receptionist",
+      "income_bracket": "$35k-$75k",
+      "location": "Madison, WI 53717, USA",
+      "marital_status": "Never married"
+    },
+    "psych_traits": {
+      "openness": 0.58,
+      "conscientiousness": 0.82,
+      "extraversion": 0.48,
+      "agreeableness": 0.72,
+      "neuroticism": 0.39
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Sara values practical, sustainable health habits over intense fitness routines. She tries to keep regular sleep, stay hydrated during busy front-desk shifts, and fit in walks, light workouts, or occasional yoga to offset time spent sitting and managing patients all day. She sees wellness as part of staying steady, patient, and dependable.",
+      "food": "Her food habits are budget-aware and convenience-conscious but not careless. She likes easy weeknight meals, coffee, meal-prep basics, salads, soups, pasta dishes, and shareable groceries that work well in a roommate household. She enjoys casual brunch or takeout occasionally, but usually aims for affordable, balanced options.",
+      "travel": "Travel is occasional and modest, focused on manageable weekend trips, family visits, or short getaways rather than expensive vacations. She likes the idea of organized, low-stress travel that fits her work schedule and budget.",
+      "home_and_lifestyle": "Sara prefers a calm, clean, cooperative home environment with clear expectations around chores, bills, and shared space. Living with a roommate suits her because she values affordability, routine, and low-drama day-to-day life. She likes a home that feels functional, welcoming, and emotionally easy to live in.",
+      "entertainment": "She tends to enjoy relaxed, social entertainment such as movie nights, coffee catchups, casual dinners, neighborhood events, light shopping, and small gatherings with friends. She prefers plans that are easy to coordinate and do not feel overly expensive or chaotic.",
+      "hobbies": "Her hobbies likely include reading or scrolling lifestyle content, light fitness, organizing her space, casual outings with friends, errands that double as social time, and keeping up with everyday routines. She may also enjoy skincare, podcasts, and simple creative or home-oriented activities.",
+      "work_and_career": "Sara takes pride in being organized, courteous, and reliable in a patient-facing healthcare setting. She is attentive to scheduling, front-desk flow, insurance paperwork, and helping people feel at ease. She likely values job stability and may be interested in gradually building toward office management, healthcare administration, or another more specialized support role.",
+      "arts_and_culture": "She is more likely to enjoy accessible local culture than formal arts scenes. Community festivals, neighborhood events, seasonal markets, and occasional local exhibits would fit her style better than high-cost or highly niche cultural pursuits.",
+      "sports": "Sports are probably more social and occasional than central to her identity. She may attend games with friends, follow local teams casually, or enjoy fitness-oriented activities more than competitive athletics.",
+      "nature_and_outdoors": "She likely appreciates Madison's parks, lakes, and pleasant neighborhoods as places to walk, reset, and spend time outdoors in low-key ways. Time outside is restorative for her, especially when paired with conversation, coffee, or errands.",
+      "technology": "Her relationship to technology is practical and routine-oriented. She uses it for scheduling, texting, budgeting, work communication, online shopping, maps, reminders, and managing daily logistics rather than as a hobby in itself.",
+      "music": "Music is likely a background companion to commuting, cleaning, getting ready, or relaxing at home. Her taste is probably familiar and mood-based, with playlists that support routine and calm rather than intense fandom.",
+      "fashion": "Sara's style is practical, neat, and presentable, especially given her front-desk healthcare role. She likely prefers comfortable basics, clean casual outfits, reliable shoes, and simple accessories, with spending guided more by usefulness and appearance than by trend-chasing."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Roommate and day-to-day household partner who shares bills and routines.",
+        "base_layer": 5,
+        "scaled_size": 4
+      },
+      "close_friends": {
+        "description": "A small circle of dependable friends and siblings she sees regularly.",
+        "base_layer": 15,
+        "scaled_size": 10
+      },
+      "social_network": {
+        "description": "Coworkers, neighbors, and friends of friends in Madison.",
+        "base_layer": 50,
+        "scaled_size": 32
+      },
+      "active_network": {
+        "description": "Broader local network through work, healthcare, and neighborhood ties.",
+        "base_layer": 150,
+        "scaled_size": 90
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.65)"
+    },
+    "close_social_personas": null
+  },
+  {
+    "persona_id": "close_2_coworker_emily",
+    "demographics": {
+      "name": "Emily Torres",
+      "age": 24,
+      "gender": "Female",
+      "education": "High school",
+      "occupation": "Fast food shift lead",
+      "income_bracket": "Under $35k",
+      "location": "Madison, WI 53717, USA",
+      "marital_status": "Never married"
+    },
+    "psych_traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.84,
+      "extraversion": 0.63,
+      "agreeableness": 0.68,
+      "neuroticism": 0.46
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Emily stays fairly active through the physical pace of shift work and tries to keep her energy steady with regular meals, hydration, and decent sleep when schedules allow. She values practical wellness over trends and is aware of how irregular hours can affect stress, fatigue, and mood.",
+      "food": "Working in fast food gives her a pragmatic relationship with food. She likes affordable comfort foods, quick meals after shifts, and occasional treats with coworkers, but she also tries not to rely entirely on restaurant food. She appreciates familiar, filling meals that fit a tight budget.",
+      "travel": "Travel is occasional and budget-limited. She is more likely to take short regional trips, visit friends or family, or join low-cost weekend outings than plan expensive vacations. Convenience and affordability matter more than luxury.",
+      "home_and_lifestyle": "Emily prefers a straightforward, manageable lifestyle centered on work stability, reliable transportation, and keeping monthly expenses under control. She likely shares housing or keeps living costs modest, and she values a home environment that is relaxed, functional, and easy to maintain around changing shifts.",
+      "entertainment": "She enjoys casual, social entertainment such as grabbing food after work, hanging out with coworkers, streaming shows, attending neighborhood events, and occasional nights out that do not strain her budget. She prefers easy, familiar fun over elaborate plans.",
+      "hobbies": "Her hobbies likely include social time with coworkers and friends, watching shows or short-form content, casual shopping, listening to music, and low-cost local outings. She may also enjoy routines that help her decompress after busy shifts.",
+      "work_and_career": "Emily takes pride in being dependable and capable in a fast-paced service setting. As a shift lead, she is used to balancing customer service, team coordination, and keeping operations moving during rushes. She is likely interested in building supervisory experience, improving team performance, and keeping options open for restaurant management or other stable service-sector roles.",
+      "arts_and_culture": "Her cultural interests are likely informal and community-based rather than highly institutional. She may enjoy local festivals, public events, and popular entertainment that feels social and accessible.",
+      "sports": "Emily is not strongly defined by sports, but she may casually follow local teams, join friends for games or watch parties, and appreciate sports as a social activity more than a core identity.",
+      "nature_and_outdoors": "She likely enjoys pleasant weather, neighborhood walks, and simple outdoor time when she can get it, though outdoor recreation is not a dominant focus. Parks, patios, and casual outdoor gatherings fit her lifestyle well.",
+      "technology": "Her use of technology is practical and social: messaging friends, checking schedules, managing work communication, streaming entertainment, and using budgeting or payment apps. She is comfortable with everyday digital tools without being especially tech-focused.",
+      "music": "Music likely plays a steady role in her daily life, especially during commutes, cleaning, getting ready, or winding down after shifts. Her taste is probably mainstream and mood-driven, with an emphasis on familiar artists and upbeat playlists.",
+      "fashion": "Emily's style is likely casual, affordable, and comfort-oriented, shaped by work demands and budget limits. Outside of work, she may enjoy simple trendy basics, sneakers, and going-out outfits that feel current without requiring heavy spending."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Close family and one or two trusted friends from work.",
+        "base_layer": 5,
+        "scaled_size": 4
+      },
+      "close_friends": {
+        "description": "Reliable coworkers and a few local friends she sees after shifts.",
+        "base_layer": 15,
+        "scaled_size": 9
+      },
+      "social_network": {
+        "description": "Restaurant staff, former classmates, and service-industry peers.",
+        "base_layer": 50,
+        "scaled_size": 30
+      },
+      "active_network": {
+        "description": "Wider network through food service jobs and neighborhood routines.",
+        "base_layer": 150,
+        "scaled_size": 85
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.6)"
+    },
+    "close_social_personas": null
+  },
+  {
+    "persona_id": "close_3_running_friend_kelsey",
+    "demographics": {
+      "name": "Kelsey Moran",
+      "age": 30,
+      "gender": "Female",
+      "education": "Bachelor's degree",
+      "occupation": "Administrative assistant",
+      "income_bracket": "$35k-$75k",
+      "location": "Madison, WI, USA",
+      "marital_status": "Single"
+    },
+    "psych_traits": {
+      "openness": 0.66,
+      "conscientiousness": 0.76,
+      "extraversion": 0.59,
+      "agreeableness": 0.77,
+      "neuroticism": 0.34
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Kelsey treats wellness as a steady part of everyday life rather than an all-or-nothing project. She runs regularly, likely meeting up with friends for outdoor runs around Madison, and values habits that support energy, mood, and consistency. She pays attention to hydration, sleep, recovery, and maintaining a manageable routine that fits around office work.",
+      "food": "Her food preferences are practical, moderately health-conscious, and social. She enjoys easy home meals, coffee chats, farmers market produce, and casual meals out with friends. She tends to like food that feels fresh, affordable, and compatible with an active lifestyle rather than overly indulgent or trend-driven dining.",
+      "travel": "Travel is likely occasional and budget-aware, with more interest in short regional trips, race weekends, or visits to nearby Midwest destinations than in luxury travel. She appreciates simple, well-planned getaways that offer a break in routine and time outdoors or with friends.",
+      "home_and_lifestyle": "Kelsey prefers a balanced, organized lifestyle with enough structure to keep work and personal commitments manageable. Her home life is probably comfortable and functional, with attention to keeping things tidy, maintaining routines, and making room for wellness, errands, and social plans without overcommitting herself.",
+      "entertainment": "She enjoys low-pressure, social entertainment such as farmers markets, community events, local coffee shops, casual dinners, and occasional neighborhood outings. Her entertainment style leans relaxed, affordable, and companionship-oriented rather than nightlife-heavy or status-driven.",
+      "hobbies": "Her hobbies likely include recreational running, attending local races, browsing farmers markets, walking around neighborhood events, light wellness planning, and spending time with close friends. She probably enjoys activities that combine movement, conversation, and a sense of local community.",
+      "work_and_career": "As an administrative assistant, Kelsey values reliability, organization, and keeping things running smoothly behind the scenes. She likely takes pride in being dependable, detail-aware, and good at coordinating schedules and communications. Career-wise, she may be interested in incremental growth, stronger administrative specialization, or office management opportunities over time.",
+      "arts_and_culture": "She is likely drawn to accessible local culture rather than highly formal arts scenes. Community festivals, local makers, neighborhood events, and occasional arts programming in Madison would fit her style well.",
+      "sports": "Running is her main sports interest, both as exercise and as a social outlet. She may also casually follow local sports or participate in race-day events with friends, but her strongest connection is to recreational fitness rather than competitive athletics.",
+      "nature_and_outdoors": "Outdoor time is an important part of her routine. She enjoys Madison\u2019s running paths, parks, seasonal markets, and the general ability to be outside in ways that feel restorative and social. Nature is less about rugged adventure and more about everyday access to pleasant, active outdoor spaces.",
+      "technology": "Her relationship to technology is practical and routine-focused. She likely uses apps for scheduling, messaging, maps, budgeting, fitness tracking, and staying coordinated with friends and work. She values convenience and usefulness over novelty.",
+      "music": "Music likely supports her mood and routine more than serving as a central identity marker. She probably listens during commutes, while working, or on runs, favoring familiar, upbeat, or easygoing playlists.",
+      "fashion": "Her style is likely casual, neat, and functional, with an emphasis on comfort, versatility, and clothing that works for office settings, errands, and active time. She is probably more interested in looking put-together than in chasing trends."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Partnerless but close to a sibling and a best friend in Madison.",
+        "base_layer": 5,
+        "scaled_size": 4
+      },
+      "close_friends": {
+        "description": "Running buddies and friends for farmers markets or casual outings.",
+        "base_layer": 15,
+        "scaled_size": 11
+      },
+      "social_network": {
+        "description": "Coworkers, recreational runners, and local event acquaintances.",
+        "base_layer": 50,
+        "scaled_size": 36
+      },
+      "active_network": {
+        "description": "Broader network from races, wellness circles, and community events.",
+        "base_layer": 150,
+        "scaled_size": 100
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.67)"
+    },
+    "close_social_personas": null
+  },
+  {
+    "persona_id": "close_4_manager_danielle",
+    "demographics": {
+      "name": "Danielle Brooks",
+      "age": 35,
+      "gender": "Female",
+      "education": "Associate degree",
+      "occupation": "Restaurant manager",
+      "income_bracket": "$35k-$75k",
+      "location": "Madison, WI, USA",
+      "marital_status": "Divorced"
+    },
+    "psych_traits": {
+      "openness": 0.54,
+      "conscientiousness": 0.88,
+      "extraversion": 0.57,
+      "agreeableness": 0.65,
+      "neuroticism": 0.37
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Danielle treats health as a matter of stamina and sustainability. Working long restaurant hours has made her attentive to sleep when she can get it, staying hydrated during shifts, wearing supportive shoes, and keeping enough routine to avoid burnout. She is practical rather than trend-driven about wellness and prefers habits she can maintain consistently.",
+      "food": "Food is both her profession and a personal interest. She appreciates efficient, well-executed casual dining, pays attention to consistency and portioning, and enjoys trying local Madison restaurants without making dining out feel extravagant. At home, she leans toward easy meals that fit a busy manager schedule.",
+      "travel": "Her travel tends to be occasional and pragmatic, shaped by work schedules and budget. She is more likely to take short regional trips or visit friends and family than plan elaborate vacations, and she values trips that feel relaxing and easy to organize.",
+      "home_and_lifestyle": "Danielle prefers an orderly, low-chaos home environment that contrasts with the pace of restaurant work. As a divorced professional, she values independence, financial stability, and routines that help her reset after demanding shifts. Her lifestyle is grounded, responsible, and centered on keeping life manageable.",
+      "entertainment": "She enjoys casual social outings such as dinners with friends, drinks after work, local events, and community festivals. Her entertainment choices tend to be social and convenient, often connected to the hospitality world or other service-industry friends.",
+      "hobbies": "Her hobbies include trying local restaurants, mentoring staff, light fitness or walking, keeping up with hospitality trends, and occasional social outings with trusted friends and coworkers. She also takes satisfaction in organizing operations and helping a team run smoothly.",
+      "work_and_career": "Work is a major source of pride and identity for Danielle. She is experienced in restaurant operations, staff scheduling, training, customer service recovery, and keeping a shift steady under pressure. She values reliability, accountability, and competence, and she often serves as a stabilizing presence for less experienced employees.",
+      "arts_and_culture": "She appreciates accessible local culture in Madison, especially festivals, neighborhood events, and community-oriented activities. Her tastes are practical and social rather than niche or highly formal.",
+      "sports": "Sports are more social than central for her. She may casually follow local teams or join group viewing occasions, but her main connection to sports is as a shared social activity rather than a deep personal passion.",
+      "nature_and_outdoors": "She enjoys getting outside when time allows, especially for a walk, patio dining, or low-key time outdoors after busy workweeks. Outdoor activity is more about decompression than adventure.",
+      "technology": "Danielle uses technology as a management tool: scheduling, communication, training coordination, inventory systems, and everyday logistics. She is comfortable with workplace tech and phone-based organization but is not especially gadget-focused.",
+      "music": "Music is part of the background atmosphere of work, commuting, and social settings. Her listening is likely broad and mood-based, with familiar playlists that fit routines or nights out.",
+      "fashion": "Her style is practical, polished, and appropriate for management in hospitality. She values presentability, comfort during long shifts, and durable basics over trend-chasing."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Immediate family and one longtime confidant.",
+        "base_layer": 5,
+        "scaled_size": 4
+      },
+      "close_friends": {
+        "description": "A few trusted coworkers and other managers in hospitality.",
+        "base_layer": 15,
+        "scaled_size": 8
+      },
+      "social_network": {
+        "description": "Staff members, vendors, and local service-industry contacts.",
+        "base_layer": 50,
+        "scaled_size": 34
+      },
+      "active_network": {
+        "description": "Broader professional network through restaurant operations and training.",
+        "base_layer": 150,
+        "scaled_size": 95
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.63)"
+    },
+    "close_social_personas": [
+      {
+        "relationship_id": "rel_close_4_manager_danielle_to_e7c0574639a244c8972c92aab9501035",
+        "persona_reference": "e7c0574639a244c8972c92aab9501035",
+        "relationship_to_primary": {
+          "relationship_type": "manager",
+          "social_layer": "social_network"
+        }
+      }
+    ]
+  },
+  {
+    "persona_id": "close_5_family_friend_lisa",
+    "demographics": {
+      "name": "Lisa Alberti",
+      "age": 31,
+      "gender": "Female",
+      "education": "High school",
+      "occupation": "Retail supervisor",
+      "income_bracket": "$35k-$75k",
+      "location": "Madison, WI, USA",
+      "marital_status": "Married"
+    },
+    "psych_traits": {
+      "openness": 0.52,
+      "conscientiousness": 0.81,
+      "extraversion": 0.55,
+      "agreeableness": 0.79,
+      "neuroticism": 0.41
+    },
+    "preferences_and_interests": {
+      "health_and_wellness": "Lisa tends to approach health in a practical, steady way. She values staying functional and energetic for work and family responsibilities, with an emphasis on routine sleep, staying on her feet comfortably, and managing stress through consistency rather than intensive fitness goals.",
+      "food": "Her food preferences are family-oriented and budget-conscious. She likely favors reliable home meals, familiar comfort foods, easy weeknight cooking, and occasional casual dining out, balancing convenience with value.",
+      "travel": "Travel is occasional and modest, centered on visiting family, regional drives, or simple getaways rather than expensive vacations. She values trips that are easy to plan, affordable, and relaxing.",
+      "home_and_lifestyle": "Lisa prefers a stable, organized household with clear responsibilities and dependable routines. Her lifestyle is grounded, family-centered, and practical, with attention to keeping the home running smoothly and finances reasonably controlled.",
+      "entertainment": "She likely enjoys casual, social entertainment such as family gatherings, dinners with friends, local community events, shopping outings, and relaxed evenings out that fit her schedule and budget.",
+      "hobbies": "Her hobbies likely include spending time with family, casual shopping, home organization, light social outings, and keeping up with people in her close circle. She may also enjoy seasonal events and small local activities in Madison.",
+      "work_and_career": "Lisa takes pride in being dependable and organized at work. As a retail supervisor, she likely focuses on scheduling, customer service, team coordination, and maintaining smooth store operations. She values job stability and being seen as capable and reliable.",
+      "arts_and_culture": "Her interest in arts and culture is likely local and accessible rather than specialized, such as community festivals, neighborhood events, and seasonal markets.",
+      "sports": "Sports are probably more social than central for Lisa. She may casually follow local teams or participate as a spectator during family or community events rather than as a major hobby.",
+      "nature_and_outdoors": "She likely enjoys outdoor time in low-pressure ways, such as neighborhood walks, park visits, family cookouts, and seasonal community events when the weather is good.",
+      "technology": "Lisa uses technology in practical, everyday ways for scheduling, shopping, communication, and managing household or work logistics. Her approach is utilitarian and convenience-focused.",
+      "music": "Music likely plays a background role in her routines, car rides, home life, and social settings, with preferences leaning toward familiar, approachable listening rather than niche music scenes.",
+      "fashion": "Her fashion style is practical, presentable, and everyday-oriented. She likely values comfortable clothing, work-appropriate outfits, and affordable pieces that look put-together without being trend-driven."
+    },
+    "social_network": {
+      "intimate_circle": {
+        "description": "Strong family-centered inner circle with siblings and spouse.",
+        "base_layer": 5,
+        "scaled_size": 5
+      },
+      "close_friends": {
+        "description": "Family friends and a few dependable longtime companions.",
+        "base_layer": 15,
+        "scaled_size": 10
+      },
+      "social_network": {
+        "description": "Retail coworkers, neighbors, and extended family contacts.",
+        "base_layer": 50,
+        "scaled_size": 33
+      },
+      "active_network": {
+        "description": "Broader network through family events, school contacts, and work.",
+        "base_layer": 150,
+        "scaled_size": 92
+      },
+      "dunbar_formula": "scaled_size = round(base_layer * 0.62), adjusted upward for family orientation"
+    },
+    "close_social_personas": null
+  }
+]

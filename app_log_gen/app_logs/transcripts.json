@@ -1,0 +1,872 @@
+[
+  {
+    "focal_persona": "Mary Alberti",
+    "recipient_persona": "Sara Jensen",
+    "msgs": [
+      {
+        "speaker": "Mary Alberti",
+        "content": "Hey, when you have a sec tonight can we look at next month\u2019s utilities? I was going through my budget and want to get ahead of it instead of being surprised later.",
+        "timestamp": "2026-01-08 00:14:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Yeah definitely. I\u2019m home after 6:15. Did something jump a lot?",
+        "timestamp": "2026-01-08 00:22:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Electric was a little higher than I expected, not horrible, just enough that I want to tighten up groceries for a couple weeks. I was thinking we keep the shared list simpler next month. More basics, less random Target drift.",
+        "timestamp": "2026-01-08 00:29:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Agreed on the Target drift lol. I\u2019m fine doing more intentional groceries. We still have rice, pasta, and I think 2 cans of soup in the pantry.",
+        "timestamp": "2026-01-08 00:35:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Perfect. If we do salad stuff, eggs, oats, yogurt, onions, potatoes, and one pasta night that should cover a lot. I can meal prep chicken and roasted veggies for a few lunches too.",
+        "timestamp": "2026-01-08 00:41:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "That works for me. Let\u2019s check the bill after dinner and split everything out.",
+        "timestamp": "2026-01-08 00:44:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Also not urgent, but can we try a simple Sunday reset routine? Just so the apartment doesn\u2019t hit that weird midweek mess point. I was thinking 30-40 minutes: kitchen wipe-down, trash, bathroom check, vacuum, and look at shared groceries.",
+        "timestamp": "2026-01-19 02:11:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Honestly yes please. Sundays are best for me too. If we keep it short I\u2019m way more likely to stick with it.",
+        "timestamp": "2026-01-19 02:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Same. I don\u2019t want it to become some huge cleaning event. More like maintenance so neither of us gets annoyed at the apartment.",
+        "timestamp": "2026-01-19 02:23:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Exactly. Maybe like 4 pm? Late enough to be awake, early enough that it doesn\u2019t ruin the evening.",
+        "timestamp": "2026-01-19 02:27:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "4 works. I\u2019ll make a tiny checklist and put it on the fridge so we don\u2019t have to negotiate it every week.",
+        "timestamp": "2026-01-19 02:31:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "You and your checklists are the reason this household functions",
+        "timestamp": "2026-01-19 02:36:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I accept this as a compliment \ud83d\ude02",
+        "timestamp": "2026-01-19 02:39:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Are you free Saturday morning by chance? I want to hit the farmers market and then do meal-prep shopping after. Nothing exciting, just produce, maybe soup stuff, and whatever\u2019s cheapest for the week.",
+        "timestamp": "2026-02-01 16:02:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "I could do that. What time were you thinking?",
+        "timestamp": "2026-02-01 16:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Maybe 9? Early enough before it gets crowded. We can grab coffee and keep it low-key.",
+        "timestamp": "2026-02-01 16:24:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "9 is good. I need salad things and fruit anyway. If tomatoes don\u2019t cost a million dollars I\u2019m getting those too.",
+        "timestamp": "2026-02-01 16:29:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Fair. And if we find something good for dinner we can split it. I\u2019m trying to avoid ending up tired Sunday and ordering takeout for no reason.",
+        "timestamp": "2026-02-01 16:35:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Same. If we prep enough, future us will be unbearable about how responsible we are.",
+        "timestamp": "2026-02-01 16:38:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Important household question: I want to start a tiny herb container setup once it warms up a bit. Just basil, parsley, maybe mint if I can keep it under control. Are you okay with me using part of the porch?",
+        "timestamp": "2026-02-18 23:07:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Yes absolutely. As long as it still leaves room for chairs and doesn\u2019t become a jungle.",
+        "timestamp": "2026-02-18 23:13:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "No jungle, promise. I\u2019m thinking one small shelf or two containers max. Mostly because paying for tiny herb packs at the store annoys me.",
+        "timestamp": "2026-02-18 23:17:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "That actually sounds nice. If you do mint we can pretend we\u2019re people who have our lives together and make cute summer drinks.",
+        "timestamp": "2026-02-18 23:22:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Exactly the vision. Functional but slightly aspirational.",
+        "timestamp": "2026-02-18 23:26:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "If you want I can help you pick containers when we do errands next week.",
+        "timestamp": "2026-02-18 23:29:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Yes please. I want cheap, not flimsy, and not ugly if possible.",
+        "timestamp": "2026-02-18 23:33:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Quick heads up: utility bill came in a little better this month, so that helped. I updated the split in the note on the fridge. Also I think the Sunday reset thing is actually working because the apartment has felt way less chaotic lately.",
+        "timestamp": "2026-03-03 01:06:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "I noticed that too. It\u2019s easier to keep clean when it never gets fully out of hand. Thank you for tracking the bill stuff.",
+        "timestamp": "2026-03-03 01:14:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "No problem. I\u2019d rather spend 10 minutes keeping tabs on it than have money stress sneak up on me.",
+        "timestamp": "2026-03-03 01:19:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Very on brand for you lol",
+        "timestamp": "2026-03-03 01:22:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Rude but accurate",
+        "timestamp": "2026-03-03 01:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Do you want to do another market run this weekend if the weather\u2019s decent? We could get groceries, maybe walk a little after, and I need potting soil if I\u2019m actually doing the herb thing.",
+        "timestamp": "2026-03-21 14:48:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Yeah I\u2019m in. Saturday would be better than Sunday for me.",
+        "timestamp": "2026-03-21 15:01:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Saturday works. We\u2019ll keep it practical and not accidentally turn it into a $60 coffee/snack situation.",
+        "timestamp": "2026-03-21 15:06:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Thank you for protecting us from ourselves.",
+        "timestamp": "2026-03-21 15:11:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Someone has to. Meet in the kitchen at 8:45?",
+        "timestamp": "2026-03-21 15:14:00+00:00"
+      },
+      {
+        "speaker": "Sara Jensen",
+        "content": "Deal.",
+        "timestamp": "2026-03-21 15:16:00+00:00"
+      }
+    ]
+  },
+  {
+    "focal_persona": "Mary Alberti",
+    "recipient_persona": "Emily Torres",
+    "msgs": [
+      {
+        "speaker": "Mary Alberti",
+        "content": "Hey, good work today. That lunch rush got kind of ugly for a minute lol. I noticed we kept getting stuck waiting on bag handoff while front counter was also trying to restock cups.",
+        "timestamp": "2026-01-09 21:18:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Yeahhh it bottlenecked fast. We had food up but nobody fully planted on handoff, and then we ran low on lids at the worst time.",
+        "timestamp": "2026-01-09 21:22:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Exactly. I was thinking if we do a quick stock check right before 11:30 and have one person clearly own handoff during the main rush, it might smooth out.",
+        "timestamp": "2026-01-09 21:27:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "I agree. Even just calling it out at pre-rush would help. When everyone half-does it, it turns into nobody doing it.",
+        "timestamp": "2026-01-09 21:31:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That is what it felt like. I\u2019m trying to pay more attention to where things actually break down instead of just surviving it.",
+        "timestamp": "2026-01-09 21:34:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "And honestly that\u2019s how you start looking like lead material. Not just working hard, but seeing the flow.",
+        "timestamp": "2026-01-09 21:39:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Can I ask you something then? How did you get into shift lead stuff? Like what helped people see you as ready?",
+        "timestamp": "2026-01-21 00:11:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Mostly being consistent. Showing up, not freaking out during rush, knowing the stations, and speaking up with solutions without acting like I knew everything.",
+        "timestamp": "2026-01-21 00:15:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Also I started doing small things before anybody asked. Counting drawers right, catching low stock, helping train new people. Managers notice that.",
+        "timestamp": "2026-01-21 00:16:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That makes sense. I feel good on the customer side and keeping organized, I just don\u2019t always know how much is too much to say.",
+        "timestamp": "2026-01-21 00:20:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "You\u2019re actually pretty good at that. You don\u2019t come off bossy. I\u2019d say just keep it practical. Like \u201chey I noticed this, maybe we try this.\u201d That lands better than complaining.",
+        "timestamp": "2026-01-21 00:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That helps a lot, thank you. I\u2019ve been thinking maybe supervision or management eventually, but I\u2019m trying to be realistic about steps.",
+        "timestamp": "2026-01-21 00:27:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Realistic is good. But don\u2019t undersell yourself either.",
+        "timestamp": "2026-01-21 00:30:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "You still up for food after work tomorrow? I cannot eat one more free fry and call it dinner.",
+        "timestamp": "2026-02-03 19:42:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Lmao yes please. If I eat shift nuggets again I\u2019m gonna lose it. Cheap diner or that soup/sandwich place?",
+        "timestamp": "2026-02-03 19:45:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Soup and sandwich sounds better. I\u2019m trying to act like an adult and eat something with an actual vegetable in it.",
+        "timestamp": "2026-02-03 19:49:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Same. Let\u2019s go right after close before I talk myself into going home and becoming a blanket burrito.",
+        "timestamp": "2026-02-03 19:52:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Deal. Also if I look half-dead it\u2019s because these back-to-back shifts are catching up to me.",
+        "timestamp": "2026-02-26 23:08:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Girl same. This week has been rude. I got home last night and just stared at my shoes for like 10 minutes before I had energy to take them off.",
+        "timestamp": "2026-02-26 23:12:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That is too real. I\u2019m trying not to get sloppy when I\u2019m tired, so I\u2019ve been writing out the week on Sundays and packing snacks so I don\u2019t completely crash.",
+        "timestamp": "2026-02-26 23:16:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "That\u2019s smart. I do better when I lay out clothes and check my schedule the night before. Otherwise I feel behind before I even leave the house.",
+        "timestamp": "2026-02-26 23:20:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I started doing meal prep again too. Nothing fancy, just rice, chicken, cut veg, yogurt, stuff I can grab fast. Makes me less tempted to spend money because I\u2019m exhausted.",
+        "timestamp": "2026-02-26 23:25:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "See that\u2019s the part I need to get better at. I stay organized at work, then off the clock I turn into chaos.",
+        "timestamp": "2026-02-26 23:28:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Honestly I think work forces it out of us and then there\u2019s nothing left. But if you want, I can send you the super basic grocery list I use when I\u2019m trying to keep it cheap and easy.",
+        "timestamp": "2026-02-26 23:33:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Yes send it. Cheap and easy is my love language right now.",
+        "timestamp": "2026-02-26 23:36:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Sent lol. Also one thing I\u2019m trying: no errands on my first hour home. Shoes off, water, stretch, shower, then decide if anything else is happening.",
+        "timestamp": "2026-02-26 23:40:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "That actually sounds kind of life-changing. My mistake is thinking I can push through and then I end up extra fried.",
+        "timestamp": "2026-02-26 23:43:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Yep. I\u2019m learning tired me is not productive me, just grumpy me.",
+        "timestamp": "2026-02-26 23:45:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Facts. Also for what it\u2019s worth, you handle the tired days better than most people there. You still stay steady.",
+        "timestamp": "2026-02-26 23:49:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I appreciate that. I\u2019m trying. And I\u2019m still thinking about what you said before about noticing flow and speaking up with solutions. I want to keep building on that.",
+        "timestamp": "2026-02-26 23:54:00+00:00"
+      },
+      {
+        "speaker": "Emily Torres",
+        "content": "Keep doing exactly that. You\u2019re closer than you think.",
+        "timestamp": "2026-02-26 23:57:00+00:00"
+      }
+    ]
+  },
+  {
+    "focal_persona": "Mary Alberti",
+    "recipient_persona": "Kelsey Moran",
+    "msgs": [
+      {
+        "speaker": "Mary Alberti",
+        "content": "Hey, are you free for an early Lake Mendota run sometime this week? I work at 10 tomorrow and 11 Thursday, so I could do like 6:15 either day before the day gets away from me.",
+        "timestamp": "2026-01-08 19:12:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Tomorrow at 6:15 works for me. If we start by Tenney I can do about 4 miles and still get back to shower before work.",
+        "timestamp": "2026-01-08 19:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Perfect. Let\u2019s keep it easy, I\u2019m a little tight from standing all weekend. I mostly just need the reset.",
+        "timestamp": "2026-01-08 19:21:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Same honestly. Easy miles and no heroics. I\u2019ll bring my headlamp just in case it\u2019s still gloomy.",
+        "timestamp": "2026-01-08 19:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Good call. Also if I look half asleep please ignore it lol. I\u2019m still coming, I just may not be chatty for the first mile.",
+        "timestamp": "2026-01-08 19:26:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "That is completely acceptable run behavior.",
+        "timestamp": "2026-01-08 19:27:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Thanks again for running this morning. My left foot was bugging me after mile 3 though. Not terrible, just that sore spot again near the outside. I\u2019m starting to wonder if my shoes are done.",
+        "timestamp": "2026-01-29 15:41:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "How old are those shoes now? Because I remember you saying they were already getting up there before the holidays.",
+        "timestamp": "2026-01-29 15:50:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Yeahhhh. I checked my app and I\u2019m at 418 miles. Which feels like an answer I didn\u2019t want.",
+        "timestamp": "2026-01-29 15:53:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Lol that is very much an answer. You probably got your money\u2019s worth. Especially with how much time you\u2019re on your feet at work too.",
+        "timestamp": "2026-01-29 15:56:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That\u2019s what I was thinking. I hate buying them because it always feels like a lot at once, but then my foot and lower back start reminding me why.",
+        "timestamp": "2026-01-29 16:02:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Could you go to Fleet Feet and just try on a couple? Even if you wait for a sale, at least you\u2019d know what works. Bad shoes are more expensive in a sneaky way.",
+        "timestamp": "2026-01-29 16:10:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "\u201cMore expensive in a sneaky way\u201d is annoyingly correct. I\u2019ll go this weekend and be responsible.",
+        "timestamp": "2026-01-29 16:14:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "I support Responsible Shoe Weekend. Text me if you want a second opinion from the dressing room mirror angle.",
+        "timestamp": "2026-01-29 16:17:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Do you want to do a cheap Saturday plan? I was thinking farmers market, coffee, and maybe just a walk after. I\u2019m trying not to spend like I\u2019m on vacation every weekend.",
+        "timestamp": "2026-02-15 17:08:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Yes, that sounds ideal honestly. Low-cost but still feels like we left the house with purpose.",
+        "timestamp": "2026-02-15 17:12:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Exactly. I need produce, and if I make one solid soup plus lunches I\u2019ll stay on track all week. Want to meet at 9?",
+        "timestamp": "2026-02-15 17:16:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "9 works. Coffee first or market first?",
+        "timestamp": "2026-02-15 17:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Market first while I\u2019m still disciplined, coffee after as a reward.",
+        "timestamp": "2026-02-15 17:20:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Very on brand for you lol. Done.",
+        "timestamp": "2026-02-15 17:21:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Okay random but I\u2019m thinking about signing up for that local 5K in April. Not because I\u2019m trying to be intense, I just do better when I have something on the calendar.",
+        "timestamp": "2026-03-03 20:04:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "I think that\u2019s a good idea. You always get more consistent when there\u2019s a specific thing coming up. Which one?",
+        "timestamp": "2026-03-03 20:11:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "The Lake Loop one. It\u2019s not too expensive and it\u2019s close, so no extra logistics. Would you do it too if I sign up?",
+        "timestamp": "2026-03-03 20:15:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Yeah, I\u2019d do that. A local 5K is exactly my speed. Literally and emotionally.",
+        "timestamp": "2026-03-03 20:19:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Lol same. I don\u2019t want a whole production, just enough motivation to keep moving when it\u2019s still cold and I\u2019d rather stay inside.",
+        "timestamp": "2026-03-03 20:23:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Then let\u2019s do it. We can keep one weekday run and one weekend longer run, nothing dramatic. Maybe toss in a few pickups if we\u2019re feeling ambitious.",
+        "timestamp": "2026-03-03 20:28:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That sounds manageable. Also I did replace the shoes and my foot has been way better, so thank you for bullying me gently into common sense.",
+        "timestamp": "2026-03-03 20:31:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "You\u2019re welcome. Gentle shoe intervention is part of friendship.",
+        "timestamp": "2026-03-03 20:34:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Registered. So now I can\u2019t back out unless I want to lose $35, which I absolutely do not.",
+        "timestamp": "2026-03-05 01:07:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Honestly that is one of the strongest forms of accountability.",
+        "timestamp": "2026-03-05 01:13:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Truly. Want to run Sunday morning? Maybe 5 easy and then I\u2019m going to do meal prep and pretend I have my life together.",
+        "timestamp": "2026-03-05 01:15:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "Yes. 8:00? And same, I need groceries and a reset before Monday.",
+        "timestamp": "2026-03-05 01:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "8 is good. If the wind is terrible we reserve the right to shorten and get coffee sooner.",
+        "timestamp": "2026-03-05 01:20:00+00:00"
+      },
+      {
+        "speaker": "Kelsey Moran",
+        "content": "A wise and humane policy.",
+        "timestamp": "2026-03-05 01:21:00+00:00"
+      }
+    ]
+  },
+  {
+    "focal_persona": "Mary Alberti",
+    "recipient_persona": "Danielle Brooks",
+    "msgs": [
+      {
+        "speaker": "Mary Alberti",
+        "content": "Hey Danielle, do you have a minute sometime this week when it's not slammed? I wanted to ask you for honest feedback on how I handle customer issues. I've been thinking more seriously about trying to move toward management.",
+        "timestamp": "2026-01-14 20:18:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Yeah, absolutely. Catch me tomorrow after lunch rush if it stays steady. Off the top, you're calm, which matters more than people think. You don't escalate people when they're already heated.",
+        "timestamp": "2026-01-14 20:26:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I appreciate that. I know I can get a little too focused on fixing the exact problem and maybe not always doing the \"heard and understood\" part first.",
+        "timestamp": "2026-01-14 20:31:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "That's a fair read. You solve problems well. Next step is slowing down just enough to make the customer feel acknowledged before you move into solution mode. Something simple like, \"I get why that's frustrating, let me fix it.\" Short, steady, confident.",
+        "timestamp": "2026-01-14 20:39:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That makes sense. So less explaining, more reassurance first.",
+        "timestamp": "2026-01-14 20:41:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Exactly. And from a management angle, keep an eye on the whole line while you're helping one person. Leads and managers don't just resolve the issue in front of them, they protect flow for everyone else too.",
+        "timestamp": "2026-01-14 20:45:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That's really helpful. I've started noticing that more, especially when one customer problem throws off handoff and then everyone gets behind. I'll work on that.",
+        "timestamp": "2026-01-14 20:49:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Also, I had an idea from the last couple understaffed days. Would you be open to me writing up a simpler prep/inventory sheet for the high-turn stuff? Nothing fancy, just a quicker way to track what actually burns down fastest on those shifts.",
+        "timestamp": "2026-02-03 19:12:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Yes, that's the kind of thing I like hearing. Practical and usable. What are you thinking?",
+        "timestamp": "2026-02-03 19:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Mostly a pared-down line check for the items we keep scrambling on by 1 pm. If opening marks beginning quantity and then we do one midday check, I think we'd catch the obvious shortages before it turns into last-minute chaos. Especially sauces, cups, two of the freezer pull items, and the backup prep that gets forgotten when we're short.",
+        "timestamp": "2026-02-03 19:25:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "That's solid. Keep it short enough that people will actually use it. If it becomes homework, it dies. But a one-page check tied to the rush points could help.",
+        "timestamp": "2026-02-03 19:31:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Yeah that's what I want to avoid. I can draft it and leave space for just initials and quick counts. I was also thinking color-coding the things that need attention before lunch instead of end of shift.",
+        "timestamp": "2026-02-03 19:36:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Do it. Bring me a draft before Friday. If it makes sense, we'll test it on a couple shifts. And for what it's worth, this is management thinking. You're not just seeing a problem, you're trying to build a repeatable fix.",
+        "timestamp": "2026-02-03 19:42:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Honestly that means a lot. I'm trying to be thoughtful about it and not just say I want more responsibility without acting like it.",
+        "timestamp": "2026-02-03 19:46:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Quick question while I'm thinking about all this: do you think a manager certification or hospitality class would actually be worth the money for me right now? I don't want to spend on something that sounds good but doesn't help much yet.",
+        "timestamp": "2026-02-24 21:07:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Good question. My honest answer: not as your first move if money is tight. Experience you can point to usually matters more at this stage. Food safety cert, shift training, inventory responsibility, cash handling, basic scheduling exposure\u2014that gives you immediate value.",
+        "timestamp": "2026-02-24 21:16:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That's kind of what I suspected. I keep looking at classes and then thinking rent exists.",
+        "timestamp": "2026-02-24 21:19:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Exactly. I'm not anti-class. It can help later, especially if you want to move up or out to a bigger operation. But right now I'd focus on low-cost credentials and getting examples under your belt. Build the story first.",
+        "timestamp": "2026-02-24 21:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That helps a lot actually. So if I can show I improved a process, handled customer recovery well, trained newer people, and understood some numbers, that carries more weight than just saying I took a class.",
+        "timestamp": "2026-02-24 21:28:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Yes. That's exactly it. Managers hire for reliability and proof. Classes support that, they don't replace it.",
+        "timestamp": "2026-02-24 21:32:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Got it. Then I'm going to focus on the practical stuff first and maybe save a class for later when it won't stress my budget so much.",
+        "timestamp": "2026-02-24 21:36:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Would you be okay with me observing more of the scheduling or closing paperwork sometime? Even just enough to understand the management side better. I know I can't do all of it, but I want to see how the decisions get made.",
+        "timestamp": "2026-03-11 18:54:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "I can do that. I can't hand over confidential pieces, obviously, but I can walk you through the structure\u2014labor targets, availability, where the headaches usually are, what closing numbers I'm checking, and why.",
+        "timestamp": "2026-03-11 19:02:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That would be great. Even understanding the why behind it would help me a lot. I think it'd make me better on shift too.",
+        "timestamp": "2026-03-11 19:05:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "It will. People work differently when they understand what the shift is being measured on. Come in 20 minutes early Thursday if you can. We'll go over the schedule build and then after close one night next week I'll show you the paperwork flow.",
+        "timestamp": "2026-03-11 19:11:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I can do Thursday early. Thank you. I know you're busy, so I really appreciate you making time for it.",
+        "timestamp": "2026-03-11 19:14:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "You're welcome. You ask good questions, and you follow through. That's why I'm willing to invest the time.",
+        "timestamp": "2026-03-11 19:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That honestly motivates me more than you know. I'll bring the updated prep sheet too since we tested it a few times and I made a couple changes from what people actually used.",
+        "timestamp": "2026-03-11 19:22:00+00:00"
+      },
+      {
+        "speaker": "Danielle Brooks",
+        "content": "Perfect. That's another good habit\u2014adjusting based on what works in real life, not what looks nice on paper. See you Thursday.",
+        "timestamp": "2026-03-11 19:27:00+00:00"
+      }
+    ]
+  },
+  {
+    "focal_persona": "Mary Alberti",
+    "recipient_persona": "Lisa Alberti",
+    "msgs": [
+      {
+        "speaker": "Mary Alberti",
+        "content": "Hey, are you guys still doing dinner at your place Sunday? I can bring something, just trying not to spend a ton this week. I was thinking pasta salad or roasted potatoes if that helps.",
+        "timestamp": "2026-05-04 16:18:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Yep, Sunday still works. Keep it simple. Pasta salad is good and easy. Mom said she\u2019s doing chicken and a green salad.",
+        "timestamp": "2026-05-04 16:26:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Perfect. I can do pasta salad then. I already have most of the stuff except veggies and dressing so that keeps it cheap.",
+        "timestamp": "2026-05-04 16:31:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "That\u2019s exactly the right level of planning lol. What time are you off that day?",
+        "timestamp": "2026-05-04 16:35:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I\u2019m done at 3 if nobody calls out. I should be there by 5:30. Want me to bring bread too or is that overkill?",
+        "timestamp": "2026-05-04 16:40:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Don\u2019t do extra. Save your money. Just bring the pasta salad and yourself.",
+        "timestamp": "2026-05-04 16:44:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Fair. Also thank you for being the voice of reason as usual.",
+        "timestamp": "2026-05-04 16:46:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Someone has to be \ud83d\ude02",
+        "timestamp": "2026-05-04 16:48:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Quick budget question. I\u2019m trying to stay tighter this month but still maybe put a little aside for one small summer weekend, like Door County if I can do it cheaply. Did you ever figure out how you make those little sinking funds actually work?",
+        "timestamp": "2026-05-28 00:11:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Yes. Boring answer: separate it right when you get paid, even if it\u2019s only like 20 or 25. If it stays in checking you\u2019ll use it on groceries or random Target stuff.",
+        "timestamp": "2026-05-28 00:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That is exactly what happens. I\u2019ll say it\u2019s for a trip and then suddenly it\u2019s shampoo, gas, and dish soap.",
+        "timestamp": "2026-05-28 00:20:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Which is why you need a category for real life too. Don\u2019t make the budget so strict that you get annoyed and give up. Build in basics, a little cushion, and a tiny fun fund.",
+        "timestamp": "2026-05-28 00:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That makes sense. I think I was treating \u201cbe responsible\u201d like it means \u201cno fun ever\u201d and then I rebound.",
+        "timestamp": "2026-05-28 00:28:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Exactly. Also a cheap getaway is fine. You don\u2019t need some huge trip. One night somewhere nice-ish, packed snacks, maybe a walk by the water, done.",
+        "timestamp": "2026-05-28 00:31:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Honestly that sounds ideal, not sad lol. I just want a reset, not a luxury resort.",
+        "timestamp": "2026-05-28 00:36:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Then budget for the reset and don\u2019t apologize for it.",
+        "timestamp": "2026-05-28 00:39:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Can I ask you a practical sister question? My work shoes are done. My feet have been sore after closing shifts and my lower back has been complaining too. I need new ones but I really don\u2019t want to overspend.",
+        "timestamp": "2026-06-14 19:07:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "If they\u2019re that worn out, it\u2019s not optional anymore. You\u2019re on your feet too much. What are you wearing now?",
+        "timestamp": "2026-06-14 19:15:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Just the black non-slip pair I bought last year. They were fine at first, but now by hour six I can feel it. I keep stretching when I get home and it helps some.",
+        "timestamp": "2026-06-14 19:19:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Year-old work shoes with your shifts is a full life cycle. Check if the insole is flattened and if the tread is getting smooth. If yes, replace them. Don\u2019t bargain-bin this too hard.",
+        "timestamp": "2026-06-14 19:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "I knew you were going to say that \ud83d\ude02 I was hoping for \u201cjust put another insole in and pretend.\u201d",
+        "timestamp": "2026-06-14 19:26:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Nope. Cheap can end up expensive if your back gets worse. Look for a sale, maybe use a coupon, but get a decent pair. Even better if you can try them on at the end of the day when your feet are tired.",
+        "timestamp": "2026-06-14 19:30:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "That is annoyingly smart. Do you still like the store by West Towne for work shoes?",
+        "timestamp": "2026-06-14 19:34:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Yes, and sometimes they have last season styles marked down. Bring your work socks. I\u2019m serious.",
+        "timestamp": "2026-06-14 19:36:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Noted: bring work socks, admit reality, spend money like an adult.",
+        "timestamp": "2026-06-14 19:39:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "You say it like it\u2019s a tragedy.",
+        "timestamp": "2026-06-14 19:41:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Only a minor one.",
+        "timestamp": "2026-06-14 19:42:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Are you free any weekend coming up for something low-key? I kind of want to do one fun thing that doesn\u2019t wreck my budget. Maybe the neighborhood festival on the east side or one of those local park events if the weather holds.",
+        "timestamp": "2026-06-29 15:02:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "I could probably do next Saturday afternoon. Festival could be nice if we keep expectations realistic and don\u2019t buy every fried thing we see.",
+        "timestamp": "2026-06-29 15:11:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Rude but fair. I was going to suggest splitting one thing and then just walking around.",
+        "timestamp": "2026-06-29 15:15:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "That\u2019s why we get along. We can do that, maybe grab lemonade, look at the booths, and call it an outing.",
+        "timestamp": "2026-06-29 15:18:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Honestly ideal. Social, outside, not expensive, home by a reasonable hour.",
+        "timestamp": "2026-06-29 15:21:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "The Alberti sisters: fun but sensible.",
+        "timestamp": "2026-06-29 15:24:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Speak for yourself, I\u2019m the wild one because I buy tomatoes at the farmers market without checking my list first.",
+        "timestamp": "2026-06-29 15:27:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Unhinged behavior. I\u2019ll text you later in the week once I know our exact timing.",
+        "timestamp": "2026-06-29 15:31:00+00:00"
+      },
+      {
+        "speaker": "Mary Alberti",
+        "content": "Sounds good. And if it rains we can just get coffee somewhere cheap and still count it as getting out of the house.",
+        "timestamp": "2026-06-29 15:34:00+00:00"
+      },
+      {
+        "speaker": "Lisa Alberti",
+        "content": "Perfect. Flexible and affordable. You really are learning.",
+        "timestamp": "2026-06-29 15:37:00+00:00"
+      }
+    ]
+  }
+]

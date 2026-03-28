@@ -1,0 +1,56 @@
+[
+  {
+    "type": "simple",
+    "task": "Can you remind me what time Sara and I said we'd do our Sunday apartment reset?",
+    "successful_response": "You and Sara said the Sunday apartment reset would be at 4 pm. In your messages with Sara on 2026-01-19, she suggested, \u201cMaybe like 4 pm?\u201d and you replied, \u201c4 works.\u201d That directly confirms the agreed time.",
+    "evidence": [
+      "Messenger log with Sara Jensen, 2026-01-19 02:27:00+00:00: Sara Jensen: \u201cExactly. Maybe like 4 pm? Late enough to be awake, early enough that it doesn\u2019t ruin the evening.\u201d",
+      "Messenger log with Sara Jensen, 2026-01-19 02:31:00+00:00: Mary Alberti: \u201c4 works. I\u2019ll make a tiny checklist and put it on the fridge so we don\u2019t have to negotiate it every week.\u201d"
+    ]
+  },
+  {
+    "type": "cross_log",
+    "task": "Did I end up signing up for that spring 5K with Kelsey, and when was it?",
+    "successful_response": "Yes \u2014 you did sign up for the spring 5K with Kelsey, and the race was on March 22, 2026. The messages show you first discussed the local April 5K, then you later told Kelsey, \u201cRegistered,\u201d which confirms you signed up. The calendar then records the actual event as \u201cLocal spring 5K\u201d on 2026-03-22 at 9:00 AM, with Kelsey listed as a participant. Together, those logs show both that you registered and when the race took place.",
+    "evidence": [
+      "Messenger log with Kelsey Moran, 2026-03-03 20:04:00+00:00: Mary Alberti: \u201cOkay random but I\u2019m thinking about signing up for that local 5K in April. Not because I\u2019m trying to be intense, I just do better when I have something on the calendar.\u201d",
+      "Messenger log with Kelsey Moran, 2026-03-05 01:07:00+00:00: Mary Alberti: \u201cRegistered. So now I can\u2019t back out unless I want to lose $35, which I absolutely do not.\u201d",
+      "Calendar log, 2026-03-22 09:00:00-06:00, \u201cLocal spring 5K\u201d: \u201cRan the local 5K Mary and Kelsey had signed up for earlier in the month. Treated it as a steady personal challenge and social event, then cooled down with coffee afterward.\u201d Participants: \u201cKelsey Moran\u201d"
+    ]
+  },
+  {
+    "type": "cross_log",
+    "task": "What feedback did Danielle give me about moving toward management? I mostly remember bits and pieces.",
+    "successful_response": "Danielle\u2019s feedback was that you already come across as calm, reliable, and organized, but that the next steps for moving toward management were stronger acknowledgment with customers, watching overall flow, and building more assertive communication and training confidence. In your messages on 2026-01-14, she said you\u2019re calm and don\u2019t escalate heated customers, but that you should make people feel acknowledged first with something like, \u201cI get why that\u2019s frustrating, let me fix it,\u201d and also keep an eye on the whole line, not just one issue. The calendar adds later feedback: on 2026-02-18 she outlined areas to improve first as speed under pressure, clearer delegation, and confidence correcting mistakes on shift, and on 2026-03-16 she said you were reliable and organized and should focus next on assertive communication and training confidence. Those logs together show both your strengths and the specific growth areas she identified.",
+    "evidence": [
+      "Messenger log with Danielle Brooks, 2026-01-14 20:26:00+00:00: Danielle Brooks: \u201cOff the top, you're calm, which matters more than people think. You don't escalate people when they're already heated.\u201d",
+      "Messenger log with Danielle Brooks, 2026-01-14 20:39:00+00:00: Danielle Brooks: \u201cThat's a fair read. You solve problems well. Next step is slowing down just enough to make the customer feel acknowledged before you move into solution mode. Something simple like, \u2018I get why that's frustrating, let me fix it.\u2019 Short, steady, confident.\u201d",
+      "Messenger log with Danielle Brooks, 2026-01-14 20:45:00+00:00: Danielle Brooks: \u201cExactly. And from a management angle, keep an eye on the whole line while you're helping one person. Leads and managers don't just resolve the issue in front of them, they protect flow for everyone else too.\u201d",
+      "Calendar log, 2026-02-18 18:45:00-06:00, \u201cSupervisor skills conversation\u201d: \u201cDanielle outlined areas to improve first: speed under pressure, clearer delegation, and confidence correcting mistakes on shift.\u201d",
+      "Calendar log, 2026-03-16 17:45:00-06:00, \u201cOne-on-one career check-in\u201d: \u201cDanielle said Mary is reliable and organized, and suggested focusing next on assertive communication and training confidence.\u201d"
+    ]
+  },
+  {
+    "type": "cross_log",
+    "task": "What did I tell people about why I was trying to keep my weekends cheap?",
+    "successful_response": "You framed keeping weekends cheap as a way to stay on budget, avoid acting like you were \u201con vacation every weekend,\u201d and still give yourself a modest reset without overspending. In messages with Kelsey on 2026-02-15, you said you wanted a \u201ccheap Saturday plan\u201d because you were \u201ctrying not to spend like I\u2019m on vacation every weekend.\u201d In messages with Lisa on 2026-05-28, you said you still wanted to \u201cput a little aside for one small summer weekend, like Door County if I can do it cheaply,\u201d and later said, \u201cI just want a reset, not a luxury resort.\u201d The calendar supports that this was a consistent pattern: on 2026-03-14 your art walk was chosen as \u201can affordable way to get out of the house,\u201d and on 2026-03-12 you kept a brewery outing moderate instead of making it a bigger night out. Those logs together show your reason was budget discipline while still allowing affordable social or restorative plans.",
+    "evidence": [
+      "Messenger log with Kelsey Moran, 2026-02-15 17:08:00+00:00: Mary Alberti: \u201cDo you want to do a cheap Saturday plan? I was thinking farmers market, coffee, and maybe just a walk after. I\u2019m trying not to spend like I\u2019m on vacation every weekend.\u201d",
+      "Messenger log with Lisa Alberti, 2026-05-28 00:11:00+00:00: Mary Alberti: \u201cQuick budget question. I\u2019m trying to stay tighter this month but still maybe put a little aside for one small summer weekend, like Door County if I can do it cheaply.\u201d",
+      "Messenger log with Lisa Alberti, 2026-05-28 00:36:00+00:00: Mary Alberti: \u201cHonestly that sounds ideal, not sad lol. I just want a reset, not a luxury resort.\u201d",
+      "Calendar log, 2026-03-14 10:30:00-06:00, \u201cCommunity art walk downtown\u201d: \u201cChose it as an affordable way to get out of the house and do something different.\u201d",
+      "Calendar log, 2026-03-12 18:00:00-06:00, \u201cCraft-brew outing with friends\u201d: \u201cWent out for one relaxed brewery stop instead of a bigger night out. Kept spending moderate...\u201d"
+    ]
+  },
+  {
+    "type": "dynamic_preference",
+    "task": "What did I end up deciding about classes or certifications for moving up at work? I know I went back and forth on that.",
+    "successful_response": "You ended up deciding to focus on practical experience and low-cost credentials first, and save a class for later. Earlier, your calendar on 2026-02-02 says you took notes on possible manager certification options, so you were actively considering classes. But the most recent direct decision is in your messages with Danielle on 2026-02-24: she said that if money is tight, experience and low-cost credentials like food safety certs, shift training, inventory responsibility, cash handling, and scheduling exposure matter more right now. You then replied, \u201cGot it. Then I\u2019m going to focus on the practical stuff first and maybe save a class for later when it won\u2019t stress my budget so much.\u201d That\u2019s the clearest and most recent logged decision.",
+    "evidence": [
+      "Calendar log, 2026-02-02 18:30:00-06:00, \u201cAfter-work planning talk with Danielle\u201d: \u201cStayed a little after shift to ask Danielle about what shift supervisors handle beyond customer service, especially inventory counts, labor pacing, and training new hires. Took notes on possible manager certification options.\u201d",
+      "Messenger log with Danielle Brooks, 2026-02-24 21:16:00+00:00: Danielle Brooks: \u201cMy honest answer: not as your first move if money is tight. Experience you can point to usually matters more at this stage. Food safety cert, shift training, inventory responsibility, cash handling, basic scheduling exposure\u2014that gives you immediate value.\u201d",
+      "Messenger log with Danielle Brooks, 2026-02-24 21:24:00+00:00: Danielle Brooks: \u201cI'm not anti-class. It can help later... But right now I'd focus on low-cost credentials and getting examples under your belt. Build the story first.\u201d",
+      "Messenger log with Danielle Brooks, 2026-02-24 21:36:00+00:00: Mary Alberti: \u201cGot it. Then I\u2019m going to focus on the practical stuff first and maybe save a class for later when it won\u2019t stress my budget so much.\u201d"
+    ]
+  }
+]
